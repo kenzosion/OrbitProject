@@ -5,9 +5,10 @@ html, body {
 }
 
 #universe {
-  background:rgb(9, 9, 8);
+  background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.6)), url(https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Andromeda_Galaxy_%28with_h-alpha%29.jpg/1200px-Andromeda_Galaxy_%28with_h-alpha%29.jpg);
+  /*background: rgb(9, 9, 8);
   background: -webkit-radial-gradient(#555,#000);
   background: -moz-radial-gradient(#555,#000);
   background: -o-radial-gradient(#555,#000);
-  background: radial-gradient(#555,#000);
+  background: radial-gradient(#555,#000);*/
 }
